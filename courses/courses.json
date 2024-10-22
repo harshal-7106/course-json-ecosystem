@@ -59,14 +59,14 @@
     "module_number": 6,
     "certification": "paid"
   },
-   {
-    "id": 10,
-    "platform": "Udemy",
-    "free_course": "no",
-    "course_name": "Complete web development bootcamp",
-    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#content",
+  {
+    "id": 7,
+    "platform": "Geeks for Geeks",
+    "free_course": "yes",
+    "course_name": "Data Science",
+    "link": "https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=gfg_submenu&itm_campaign=DS_Submenu",
     "difficulty": "beginner",
-    "module_number": 12,
+    "module_number": 6,
     "certification": "paid"
   }
 ]
